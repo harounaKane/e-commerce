@@ -11,3 +11,7 @@ export const PRODUCT = {
     MAX_RANGE_PRICE: 500,
     MIN_RANGE_STOCK: 0,
 }
+
+export const ORDER = { 
+    MIN_LEN_COMMENT: 2
+};
